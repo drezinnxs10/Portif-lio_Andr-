@@ -14,8 +14,7 @@ Meu portfólio foi desenvolvido com foco em **design limpo, responsivo e interat
 
 ## 🚀 Projetos em Destaque
 - **Jogo do Mario** – Plataforma com movimento, colisões e pontuação.  
-- **Jogo da Forca** – Lógica de adivinhação com feedback em tempo real.  
+- **Lading Page** – Site responsivel e interativo utilizando JavaScript, CSS e HTML  
 - **Jogo da Cobrinha** – Crescimento da cobrinha e controle por teclado.  
 - **Sistema Solar** – Visualização interativa do sistema solar em HTML e CSS.  
 
-## 📂 Estrutura do Portfólio
